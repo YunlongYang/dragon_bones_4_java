@@ -1,0 +1,7 @@
+include ':dragon_bonee_library'
+include ':bonee-resources'
+include ':launcher'
+include ':dragonbones-core'
+include ':dragonbones-libgdx'
+include 'dragonbones-render-libgdx'
+

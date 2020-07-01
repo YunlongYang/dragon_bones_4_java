@@ -1,0 +1,11 @@
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+        mavenLocal()
+    }
+}
+
+ext{
+    gdxVersion = '0.9.9'
+}
